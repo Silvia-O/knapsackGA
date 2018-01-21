@@ -1,0 +1,6 @@
+weight profit (the two data in one line is separated by one blank)(the first line won't be read in)
+2 6
+2 3
+6 5
+5 4
+4 6
